@@ -72,3 +72,9 @@ English documents: [Privacy Policy](PRIVACY.en.md) · [Terms of Use](TERMS.en.md
 ## 项目说明
 
 KafkaLume 是独立桌面工具，不代表获得 Apache Software Foundation 或相关第三方的认可或授权。软件包含的第三方组件分别适用其自身许可证。
+
+## 支持项目
+
+如果 KafkaLume 对你有帮助，欢迎通过 [爱发电支持作者](https://ifdian.net/a/ludaming)，支持后续维护与改进。
+
+赞助完全自愿，不赞助也可以正常使用当前免费版本，不涉及功能解锁。软件内可在“系统设置 → 关于 KafkaLume → 支持作者”打开赞助页面。链接将在浏览器中打开，账号验证及支付流程由爱发电提供。

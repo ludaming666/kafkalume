@@ -1,6 +1,6 @@
 # KafkaLume Privacy Policy
 
-Updated: October 31, 2026
+Updated: November 12, 2026
 
 Publisher: ludaming666 (GitHub: https://github.com/ludaming666)  
 Project homepage: https://github.com/ludaming666/kafkalume  
@@ -25,6 +25,7 @@ Newly saved passwords, certificates, and bot credentials are stored using local 
 - When Schema Registry is configured, the application communicates with that address. Configured authentication credentials accompany requests to that service. Prefer HTTPS.
 - Only when the user enables and configures bot notifications does the application send connection names, alert titles, descriptions, timestamps, and similar information to the selected Feishu, DingTalk, or WeCom bot. Alert text may include topic or consumer group names. Notifications do not include Kafka message bodies or connection passwords.
 - This version is not designed to automatically upload usage statistics, crash reports, or Kafka data to a publisher-operated server. Windows notifications and the third-party services above may still process information under their own policies.
+- Only when the user clicks "Support the author" does the application ask the default browser to open the Afdian support page (https://ifdian.net/a/ludaming). Support is optional. Account verification and payments are handled by the third-party platform. KafkaLume does not receive or store payment accounts, verification codes, or order information, and does not send Kafka connection settings or message contents to that page.
 
 Kafka PLAINTEXT connections and HTTP Schema Registry connections may be unencrypted. Connection security depends on the user and target service settings. KafkaLume does not automatically convert them into secure connections.
 
